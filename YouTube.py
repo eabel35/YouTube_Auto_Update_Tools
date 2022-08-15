@@ -6,8 +6,8 @@ import numpy as np
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
-key1 = 'AIzaSyDoAnzJYY5oro2WX4_3VQAqt3HeSncEwsg' #project 1 under eric.abel35@gmail.com personal account - limit: 10k
-key2 = 'AIzaSyBLR-rq1OXLxo0Kvd0NYhWUU4nn9IfX-gE' #project 2 under eric.abel35@gmail.com personal account - limit: 10k
+key1 = 'KEY1' #project 1 under eric.abel35@gmail.com personal account - limit: 10k
+key2 = 'KEY2' #project 2 under eric.abel35@gmail.com personal account - limit: 10k
 
 class YouTube():
     
