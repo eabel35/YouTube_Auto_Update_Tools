@@ -120,8 +120,4 @@ class YouTube():
                 }).execute()
             return self.get_all(id)
         
-            
-    
-    def destroy():
-        return 'Just Kidding'
-    
+           
